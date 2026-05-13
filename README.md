@@ -14,6 +14,7 @@
 <p align="center">
 
 &#x20; <img src="Picture/2D%20Top%20Layer.png" width="400">
+&#x20; <img src="Picture/2D%20Bottom%20Layer.png" width="400">
 
 </p>
 
