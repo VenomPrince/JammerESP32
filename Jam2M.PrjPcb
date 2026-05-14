@@ -168,6 +168,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KZWDSMBS
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Jam2M\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
