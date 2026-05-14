@@ -2,6 +2,46 @@
 FileName = PCB1.GBR
 AutoAperture = True
 *************************************************************
+Generating : Bottom Layer
+      File : PCB1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D16
+    D17
+    D22
+    D23
+    D25
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
 Generating : Top Component Center
       File : PCB1.GM16
 
@@ -42,24 +82,42 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : PCB1.GM1
+Generating : Top Layer
+      File : PCB1.GTL
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Layer
 
-
-Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : PCB1.GKO
-
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D12
+    D14
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
 *************************************************************
 
 *************************************************************
@@ -147,43 +205,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : PCB1.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D19
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-*************************************************************
-
-*************************************************************
 Generating : Top Paste
       File : PCB1.GTP
 
@@ -263,6 +284,27 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Keep-Out Layer
+      File : PCB1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB1.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
 Generating : Bottom Pad Master
       File : PCB1.GPB
 
@@ -297,48 +339,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : PCB1.GBL
+Generating : Top Solder
+      File : PCB1.GTS
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D14
-    D16
-    D17
-    D22
-    D23
-    D25
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : PCB1.GTL
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -346,14 +350,9 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D12
-    D14
     D16
     D17
-    D18
     D19
-    D20
-    D21
     D22
     D23
     D24
@@ -364,6 +363,9 @@ Used DCodes :
     D29
     D30
     D31
+    D32
+    D33
+    D34
     D35
     D36
     D37
@@ -371,7 +373,5 @@ Used DCodes :
     D39
     D40
     D41
-    D42
-    D43
 *************************************************************
 

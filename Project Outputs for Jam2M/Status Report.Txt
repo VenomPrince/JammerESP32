@@ -1,10 +1,10 @@
-Output: IPC-2581 Files
-Type  : IPC2581
+Output: Generates pick and place files
+Type  : Pick Place
 From  : PCB Document [PCB1.PcbDoc]
-   Generated File[PCB1.cvg]
+   Generated File[Pick Place for PCB1.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 14.13.07 On 14/05/2026
+Finished Output Generation At 15.14.36 On 14/05/2026

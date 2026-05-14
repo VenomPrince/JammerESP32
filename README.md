@@ -5,7 +5,7 @@
 <p align="center">
 
 &#x20; <img src="Picture/3D%20PCB.png" width="400">
-&#x20; <img src="Picture/3D%20PCB%20Back.png" width="400">
+&#x20; <img src="Picture/3D%20PCB%20back.png" width="400">
 
 </p>
 
@@ -14,6 +14,7 @@
 <p align="center">
 
 &#x20; <img src="Picture/2D%20Top%20Layer.png" width="400">
+&#x20; <img src="Picture/2D%20Bottom%20Layer.png" width="400">
 
 </p>
 
